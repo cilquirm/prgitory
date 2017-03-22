@@ -1,0 +1,9 @@
+[package]
+name = "prgitory"
+version = "0.1.0"
+authors = ["Aadi Deshpande <aadi.deshpande@gmail.com>"]
+
+[dependencies]
+lazy_static = "*"
+slack = "*"
+regex = "*"
