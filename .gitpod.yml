@@ -1,4 +1,4 @@
 tasks:
-  - before: /workspace/yew-gitpod-example/setup.sh
+  - before: /workspace/prgitory/setup.sh
 ports:
   - port: 8000
