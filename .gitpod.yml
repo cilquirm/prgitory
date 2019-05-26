@@ -1,0 +1,4 @@
+tasks:
+  - before: /workspace/yew-gitpod-example/setup.sh
+ports:
+  - port: 8000
